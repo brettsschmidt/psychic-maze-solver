@@ -1,0 +1,11 @@
+C:\Users\brett\source\repos\CSCI280_MazeRunner_Schmidt\CSCI280_MazeRunner_Schmidt\bin\Release\netcoreapp2.0\CSCI280_MazeRunner_Schmidt.deps.json
+C:\Users\brett\source\repos\CSCI280_MazeRunner_Schmidt\CSCI280_MazeRunner_Schmidt\bin\Release\netcoreapp2.0\CSCI280_MazeRunner_Schmidt.runtimeconfig.json
+C:\Users\brett\source\repos\CSCI280_MazeRunner_Schmidt\CSCI280_MazeRunner_Schmidt\bin\Release\netcoreapp2.0\CSCI280_MazeRunner_Schmidt.runtimeconfig.dev.json
+C:\Users\brett\source\repos\CSCI280_MazeRunner_Schmidt\CSCI280_MazeRunner_Schmidt\bin\Release\netcoreapp2.0\CSCI280_MazeRunner_Schmidt.dll
+C:\Users\brett\source\repos\CSCI280_MazeRunner_Schmidt\CSCI280_MazeRunner_Schmidt\bin\Release\netcoreapp2.0\CSCI280_MazeRunner_Schmidt.pdb
+C:\Users\brett\source\repos\CSCI280_MazeRunner_Schmidt\CSCI280_MazeRunner_Schmidt\obj\Release\netcoreapp2.0\CSCI280_MazeRunner_Schmidt.csprojResolveAssemblyReference.cache
+C:\Users\brett\source\repos\CSCI280_MazeRunner_Schmidt\CSCI280_MazeRunner_Schmidt\obj\Release\netcoreapp2.0\CSCI280_MazeRunner_Schmidt.csproj.CoreCompileInputs.cache
+C:\Users\brett\source\repos\CSCI280_MazeRunner_Schmidt\CSCI280_MazeRunner_Schmidt\obj\Release\netcoreapp2.0\CSCI280_MazeRunner_Schmidt.AssemblyInfoInputs.cache
+C:\Users\brett\source\repos\CSCI280_MazeRunner_Schmidt\CSCI280_MazeRunner_Schmidt\obj\Release\netcoreapp2.0\CSCI280_MazeRunner_Schmidt.AssemblyInfo.cs
+C:\Users\brett\source\repos\CSCI280_MazeRunner_Schmidt\CSCI280_MazeRunner_Schmidt\obj\Release\netcoreapp2.0\CSCI280_MazeRunner_Schmidt.dll
+C:\Users\brett\source\repos\CSCI280_MazeRunner_Schmidt\CSCI280_MazeRunner_Schmidt\obj\Release\netcoreapp2.0\CSCI280_MazeRunner_Schmidt.pdb
